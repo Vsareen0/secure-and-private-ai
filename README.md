@@ -12,4 +12,5 @@
 | **8**  | DIgesting Maths of local and global dp, GCP, CHannle Group  | Explore these 3 tasks  | 
 | **9**  | Digested and want to Learn more about local and global dp for knowledge |  GCP and kaggle, Start dp for deep learning  | 
 | **10**  | Started DP for Deep learning | GCP, DP for Deep Learning, GAN's | 
-| **11**  | Finished PATE analysis, data flow in gcp | Gan's, DP for deep learning, GCP | 
+| **11**  | Finished PATE analysis, data flow in gcp | Gan's, DP for deep learning, GCP |
+| **12**  | GAN's, DP for Deep Learning, GCP | Will Do GCP and give a recap to DP for now and study GAN's in more detail(implementation) |
