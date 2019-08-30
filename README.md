@@ -1,4 +1,8 @@
-# Daily progress for #60DaysOfUdacity
+  # Daily progress for #60DaysOfUdacity
+
+<p align="center">
+<img src="https://pbs.twimg.com/media/EDMqVfRUEAEyZwh?format=jpg&name=medium" width="50%" height="50%"/>
+</p>
 
 | Day        | Task Performed   | Upcoming Tasks|
 | ------------- |:-------------:| ----: |
