@@ -37,15 +37,15 @@
 | **29** | Gave Android Developer Certification by Google | Will continue with the lesson again |
 | **30** | Finished Securing Federated Learning | Will Start next lesson |
 | **31** | Learned importance of encrypting database & techniques used to do it using pysyft | [Encrypted DEEP LEARNING] | 
-| **32** | Reading and article on federated learning, TOWARDS FEDERATED LEARNING AT SCALE: SYSTEM DESIGN | Will try to complete it | 
-| **33** | 
-| **34** | 
+| **32** | Started the next lesson [Encrypted DEEP LEARNING] | Continued |
+| **33** | Reading an article on federated learning, TOWARDS FEDERATED LEARNING AT SCALE: SYSTEM DESIGN | Will try to complete it | 
+| **34** | Will try to finish the last lesson of encrypted deep learning and the article too https://arxiv.org/pdf/1902.01046.pdf | 
 | **35** | Mathematical Confusions with Encrypted Deep Learning| Some external sources |
 | **36** | Learned about encrypted techniques and GAN's again | 
 | **37** | Finished off with the lesson will revisit the concepts | 
-| **38** | Will take a break to work on mini projects |
-| **39** | Started from course begining along with mini projects |
-| **40** | Read some articles from external sources | 
+| **38** | Will take a break to work on mini projects | Also Start the course again |
+| **39** | Started from course begining along with mini projects | Continued |
+| **40** | Read some articles from external sources | ..|
 | **41** | Started reading about Deep Image Re-Synthesis { Gaze Manipulation } | Will continue on the same | 
 | **42** | Finished half the article | will finish the rest |
 | **43** | Made sense of the article| Will Start with implementation |
@@ -57,11 +57,11 @@
 | **49** | Took a break from material, looked over external stuff, EchoAI | 
 | **50** | Reading paper on Monocular Gaze Correction Using ML https://bit.ly/31Rcdvg which has connection to my project | continued |
 | **51** | Read this amazing article on gan's https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f by Dev Nag | continued |
-| **52** | Started again from lesson 3 (Revisioning + Implementation) |
-| **53** |  Started lesson 4 ! With my demo project ! | 
-| **54** | Finished lesson 4 and started lesson 5 Introducing Global and Local Differential Privacy | 
-| **55** | ON lesson 5 Introducing Global and Local Differential Privacy |
-| **56** | Finished lesson 5 and started lesson 6  Have also understood CNN, RNN, LSTM's , will also take a look at MNN |
-| **57** | On Lesson 6 and submitted my project link |
-| **58** | Finished lesson 6 | Will start lesson 7 |
+| **52** | Started again from lesson 3 (Revisioning + Implementation) | Next lesson |
+| **53** |  Started lesson 4 ! With my demo project ! | Next lesson |
+| **54** | Finished lesson 4 and started lesson 5 Introducing Global and Local Differential Privacy | Next lesson | 
+| **55** | ON lesson 5 Introducing Global and Local Differential Privacy | Continued |
+| **56** | Finished lesson 5 and started lesson 6  Have also understood CNN, RNN, LSTM's , will also take a look at MNN | Next leson |
+| **57** | On Lesson 6 and submitted my project link | continued |
+| **58** | Finished lesson 6 | Will start lesson 7 | Next lesson |
 | **59** | n Lesson 7, read some amazing articles today https://venturebeat.com/2019/06/03/how-federated-learning-could-shape-the-future-of-ai-in-a-privacy-obsessed-world/ |
